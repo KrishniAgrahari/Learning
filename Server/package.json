@@ -9,7 +9,7 @@
     "server": "nodemon server.js"
   },
   "keywords": [],
-  "author": "gyan",
+  "author": "Krishni",
   "license": "ISC",
   "description": "Edemy LMS - A Modern Learning Management System",
   "dependencies": {
